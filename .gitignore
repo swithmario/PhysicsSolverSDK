@@ -1,0 +1,72 @@
+# Build artifacts
+build/
+Build/
+build-*/
+Build-*/
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.app
+*.pch
+*.gch
+compile_commands.json
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CMakeUserPresets.json
+
+# IDE-specific files
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln
+*.vcxproj*
+
+# macOS specific
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*~
+*.swp
+*.swo
+
+# External/Vendor libraries if not managed as submodules
+# If 'external' contains libraries you download and build locally but don't want to track,
+# you might add 'external/' here. However, if you plan to use Git submodules for them,
+# then you wouldn't ignore the 'external' directory itself, just its build products if any.
+# For now, let's assume you might add built libs here sometimes:
+# external/**/*.a
+# external/**/*.lib
+# external/**/*.so
+# external/**/*.dylib
+# external/**/*.dll
+
+# Python virtual environments
+venv/
+.venv/
+env/
+.env/
+__pycache__/
+*.pyc
+*.pyo
+
+# Large data files that shouldn't be in git (if any, beyond sample scenes)
+# For example, if your 'data/validation_data' becomes very large with binary files.
+# data/validation_data/*.bin
