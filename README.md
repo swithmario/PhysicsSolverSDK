@@ -1,5 +1,4 @@
-# PhysicsSolverSDK: AI-Accelerated Modular Physics Simulation
-
+# PhysicsSolverSDK: Open source holistic collation of existing physics solving solutions.
 COMPATIBLE WITH [Engine](https://github.com/swithmario/Engine?tab=readme-ov-file)
 
 **Tagline:** *An open-source C++ framework for high-fidelity offline physics simulation, designed to produce data for real-time interactive exploration and AI-driven insights.*
