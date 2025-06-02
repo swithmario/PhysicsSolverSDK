@@ -148,4 +148,3 @@ This project is envisioned to be licensed under an open-source license (e.g., MI
 ---
 
 We believe in the power of physically accurate simulation and AI to create next-generation digital experiences and scientific tools. Join us on this exciting journey!
-
